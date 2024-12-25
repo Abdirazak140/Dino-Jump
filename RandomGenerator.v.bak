@@ -1,0 +1,3 @@
+module RandomGenerator(enable, out);
+endmodule
+

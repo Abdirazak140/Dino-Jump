@@ -133,7 +133,7 @@ module DE10_LITE_Golden_Top(
 //=======================================================
 //  Structural coding
 //=======================================================
-Project proj(MAX10_CLK1_50, KEY, HEX5, HEX4, HEX3, HEX2, HEX1, HEX0, VGA_R, VGA_G, VGA_B, VGA_HS, VGA_VS, SW[0]);
+
 
 
 endmodule

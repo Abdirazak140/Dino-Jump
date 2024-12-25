@@ -1,0 +1,4 @@
+module ScoreCounter(clk, reset, state, digit5, digit4, digit3, digit2, digit1, digit0);
+
+endmodule
+

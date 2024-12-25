@@ -1,0 +1,20 @@
+module Engine();
+
+endmodule
+
+
+module dinoPhysics(jumpButton, clk, state, positionX, positionY);
+
+endmodule
+
+module dinoPosition();
+
+endmodule
+
+module collisionDetection();
+
+endmodule
+
+module obstacleCreation();
+
+endmodule
